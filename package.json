@@ -1,0 +1,22 @@
+{
+  "name": "mssolomonwordchecker",
+  "version": "1.0.0",
+  "description": "Checks for words Ms. Solomon does not like",
+  "main": "find.js",
+  "scripts": {
+    "start": "node find.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InternetRamen/word-checker.git"
+  },
+  "keywords": [
+    "english"
+  ],
+  "author": "InternetRamen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InternetRamen/word-checker/issues"
+  },
+  "homepage": "https://github.com/InternetRamen/word-checker#readme"
+}
